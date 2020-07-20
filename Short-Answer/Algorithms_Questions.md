@@ -37,9 +37,6 @@ Suppose that you have an n-story building and plenty of eggs. Suppose also that 
 
 Write out your proposed algorithm in plain English or pseudocode AND give the runtime complexity of your solution.
 
-for n stores or the building, go to the median, drop an egg, if it breaks then go to the [:median] and repeat the process.
- if it doesnt break then go to the [median:] and try again. 
- 
- repeat proces until you find the floor where it doesnt/does break depending on first result. 
+
 
 

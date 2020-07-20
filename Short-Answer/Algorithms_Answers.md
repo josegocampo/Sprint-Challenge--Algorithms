@@ -13,3 +13,9 @@ c) O(n), because its decreasing by 1 each time, meaning that it will take the sa
 ## Exercise II
 
 
+for n stores or the building, go to the median, drop an egg, if it breaks then go to the [:median]//2.
+ if it doesnt break then go to the [median:]//2.
+ 
+ repeat proces until you find the floor where it doesnt/does break depending on first result. 
+
+ it would be a binary search, so Runtime would be O(log n)

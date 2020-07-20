@@ -12,6 +12,10 @@ c) O(n), because its decreasing by 1 each time, meaning that it will take the sa
 
 ## Exercise II
 
+you could do an interation going from the start of the building going up, throwing eggs to see in which it starts breaking, that run time would be O(n)
+
+
+or better:
 
 for n stores or the building, go to the median, drop an egg, if it breaks then go to the [:median]//2.
  if it doesnt break then go to the [median:]//2.
